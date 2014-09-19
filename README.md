@@ -3,7 +3,7 @@ NumSys
 
 Арифметические основы ЭВМ (the basics of computer arithmetic)
 
-Visual studio 2010 (C++ MFC)
+Visual studio 2010 (C++ MFC), chm файл расположить вместе с исполняемым exe файлом
 
 Тестовая оболочка по теме «Арифметические основы ЭВМ»
 
